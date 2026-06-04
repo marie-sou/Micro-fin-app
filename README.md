@@ -3,9 +3,10 @@
 | Prénom Nom     | Rôle | GitHub Username | E-mail GitHub                                                                                       |
 | --------------- | ----- | --------------- | --------------------------------------------------------------------------------------------------- |
 | Bienvenu Mendy  |       | @BemvindoTech   | [bienvenu.mendy@univ-thies.sn  ](bienvenu.mendy@univ-thies.sn)                                         |
-| Abdoulaye Ndour |       |                 | [ndourabdoulaye1803@gmail.com](mailto:ndourabdoulaye1803@gmail.com "mailto:ndourabdoulaye1803@gmail.com") |
-| Marie Soukey    |       | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  |
+| Abdoulaye Ndour |       | @petitlaye03    | [ndourabdoulaye1803@gmail.com](mailto:ndourabdoulaye1803@gmail.com "mailto:ndourabdoulaye1803@gmail.com") |
+| Marie Soukèye  |       | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  |
 | Adja            |       |                 |                                                                                                     |
+| Khemesse Diouf  |       | @Khemesse333    | dioufkhemesse333@gmail.com                                                                          |
 
 ---
 
