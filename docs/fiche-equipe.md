@@ -19,9 +19,9 @@
 | - | ------------------------- | ----------------------------- | --------------- | --------------------------------------------------------- |
 | 1 | Bienvenu Mendy            | Chef de projet                | @BemvindoTech   | [bienvenu.mendy@univ-thies.sn](bienvenu.mendy@univ-thies.sn) |
 | 2 | Abdoulaye Ndour           | Master Prompt Engineer        | @petitlaye03    | ndourabdoulaye1803@gmail.com                              |
-| 3 | Marie Soukeye Rwiyamirira | Développeur UI               | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)        |
-| 4 | Adja Dime Bomou           | Responsable Impact & Éthique | @[username]     | adjabomou99@gmail.com                                     |
-| 5 | Khemesse Diouf            | Développeur No-Code          | @Khemesse333    | dioufkhemesse333@gmail.com                                |
+| 3 | Marie Soukèye Rwiyamirira | Développeur UI               | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)        |
+| 4 | Adja Dime Bomou           | Responsable Impact & Éthique | @AdjaDimeBomou  | adjabomou99@gmail.com                                     |
+| 5 | Khemésse Diouf            | Développeur No-Code          | @Khemesse333    | dioufkhemesse333@gmail.com                                |
 
 ---
 
