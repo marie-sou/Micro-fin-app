@@ -1,5 +1,6 @@
 ## Équipe projet
 
+<<<<<<< HEAD
 | Prénom Nom     | Rôle | GitHub Username | E-mail GitHub                                                                                       |
 | --------------- | ----- | ---------------| --------------------------------------------------------------------------------------------------- |
 | Bienvenu Mendy  |       | @BemvindoTech  | [bienvenu.mendy@univ-thies.sn  ](bienvenu.mendy@univ-thies.sn)                                         |
@@ -7,6 +8,15 @@
 | Marie Soukèye  |       | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)             |
 | Adja            |       |@AdjaDimeBomou  | [adjabomou99@gmail.com ](mailto:adjabomou99@gmail.com)            |
 | Khémesse Diouf  |       | @Khemesse333   |[dioufkhemesse333@gmail.com  ](mailto:dioufkhemesse333@gmail.com)  |
+=======
+| Prénom Nom                | Rôle                        | GitHub Username | E-mail GitHub                                                                                       |
+| -------------------------- | ---------------------------- | --------------- | --------------------------------------------------------------------------------------------------- |
+| Bienvenu Mendy             | Chef de Projet               | @BemvindoTech   | [bienvenu.mendy@univ-thies.sn  ](bienvenu.mendy@univ-thies.sn)                                         |
+| Abdoulaye Ndour            | Master Prompt Engineer       | @petitlaye03    | [ndourabdoulaye1803@gmail.com](mailto:ndourabdoulaye1803@gmail.com "mailto:ndourabdoulaye1803@gmail.com") |
+| Marie Soukèye Rwiyamirira | Développeur UI              | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  |
+| Adja Dime Bomou            | Responsable Impact & Ethique |                 |                                                                                                     |
+| Khemesse Diouf             | Développeur No-Code         | @Khemesse333    | dioufkhemesse333@gmail.com                                                                          |
+>>>>>>> 6e78949 (feat(S2): Update directory docs)
 
 ---
 
@@ -16,9 +26,8 @@
 * **Contexte :** Les petits producteurs agricoles font face à des difficultés d'accès au financement en raison de l'absence de garanties formelles, de leur forte exposition aux risques climatiques et du manque de reconnaissance des mécanismes d'épargne communautaire existants.
 * **HMW :** Comment pourrions-nous concevoir une solution de micro-finance verte qui permette aux agriculteurs ruraux d'accéder à des services de crédit agricole, d'assurance récolte et d'épargne communautaire adaptés à leur réalité économique, sociale et climatique ?
 
-
-
 ---
+
 ## Livrables S1
 
 - [X] Fiche équipe → [Voir le fichier](docs/fiche-equipe.md)
@@ -31,20 +40,17 @@
 ## Architecture du dépôt
 
 ```
-GET409-NiayesBiz/
+Micro-fin-app/ 
 ├── README.md
 └── docs/
     ├── fiche-equipe.md
     └── carte-empathie.md
+  
 ```
 
 ## Notre défi — HMW Définitif S2
 
-"Comment pourrions-nous aider les maraîchers des Niayes à recevoir
-chaque matin, avant 6h, un SMS de prix de référence fiable — légume,
-unité et marché précisés — issu de données vérifiables, pour qu'ils
-puissent négocier avec les Bana-Bana depuis une position informée
-et crédible ?"
+"Comment pourrions-nous aider les petits exploitants agricoles du Sénégal à construire une identité financière alternative — à partir de leurs flux mobile money et de leur épargne communautaire existante — pour accéder à un crédit de campagne, une assurance récolte et une épargne sécurisée, sans titre foncier ni compte bancaire formel, via un service accessible sur feature phone ?"
 
 ## Livrables S2
 
@@ -59,8 +65,13 @@ et crédible ?"
 | docs/backlog-s3.md            | User stories S3               |
 | docs/hmw-definitif.md         | HMW définitif validé        |
 
+---
 
------
+
+
+
+
+# Note Annexe S1 
 
 ## Énoncé HMW validé
 

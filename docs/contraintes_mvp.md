@@ -4,18 +4,6 @@
 
 Moussa Diallo · 43 · Petit exploitant agricole · Kaolack · Feature phone (Wave)
 
-### Chapeau Blanc — Faits & Données
-
-- La majorité des personas (ex. Moussa Diallo, 43 ans) ont un feature phone et utilisent Wave/Orange Money pour recevoir de l'argent plutôt que de gérer des comptes bancaires formels.
-- Les tontines locales existent comme mécanisme d'épargne et de garantie sociale, mais sont tenues manuellement (cahiers) et manquent de traçabilité numérique vérifiable.
-- Les montants recherchés sont modestes (≈50 000–200 000 FCFA) et les agriculteurs remboursent généralement après la récolte; prêts informels à taux très élevés (60–100% saisonnier) sont courants.
-
-### Chapeau Noir — Risques & Critique
-
-- Risque de base‑risk pour une assurance paramétrique : l'indice météo choisi peut mal refléter les pertes réelles, entraînant perceptions d'injustice.
-- Digitalisation des tontines peut exclure les membres les moins alphabétisés ou sans réseau mobile fiable, fragilisant la confiance collective.
-- Transformer l'épargne tontine en "garantie" reconnue pourrait encourager collusion ou pressions sociales, augmentant le risque de défaut groupé.
-
 ### Contraintes Non Négociables
 
 #### Contrainte 1
@@ -53,7 +41,7 @@ Moussa Diallo · 43 · Petit exploitant agricole · Kaolack · Feature phone (Wa
 - Application smartphone riche → éliminée parce que la majorité des utilisateurs ont des feature phones.
 - Automatisation complète de l'indemnisation paramétrique sans recours → éliminée à cause du risque de base‑risk et de défiance.
 - Utilisation de l'historique tontine comme garantie sans protocole → éliminée pour prévenir pressions sociales et défauts groupés.
-- Intégration bancaire immédiate (exiger compte bancaire) → éliminée car contradictoire avec l'objectif d'accès sans compte formel.
+- Intégration bancaire imqqqddmédiate (exiger compte bancaire) → éliminée car contradictoire avec l'objectif d'accès sans compte formel.
 
 ### Critère de Validation Final
 

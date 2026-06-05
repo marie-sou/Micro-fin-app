@@ -75,17 +75,17 @@
 
 ## Répartition des tâches S1
 
-| Tâche                                        | Responsable        | Rôle                         | Statut      |
-| --------------------------------------------- | ------------------ | ----------------------------- | ----------- |
-| Diagnostic micro-finance verte (3 problèmes) | Malick Faye Diagne | Chef de projet                | ✅ Terminé |
-| Énoncés HMW (x5)                            | Malick Faye Diagne | Chef de projet                | ✅ Terminé |
-| Guide d'interview terrain (10 questions)      | [Prénom Nom]      | Master Prompt Engineering     | ✅ Terminé |
-| Carte d'empathie — exploitant agricole       | Malick Faye Diagne | Chef de projet                | ✅ Terminé |
-| Persona secondaire — femme GIE               | [Prénom Nom]      | Responsable Impact & Éthique | ⏳ À faire |
-| Maquette wireframe solution (SMS / USSD)      | [Prénom Nom]      | Développeur UI               | ⏳ À faire |
-| Prototype No-Code scoring alternatif          | [Prénom Nom]      | Développeur No-Code          | ⏳ À faire |
-| Analyse éthique & risques (biais, données)  | [Prénom Nom]      | Responsable Impact & Éthique | ⏳ À faire |
-| README.md du repository                       | [Prénom Nom]      | Master Prompt Engineering     | ⏳ À faire |
+| Tâche                                        | Responsable                | Rôle                         | Statut      |
+| --------------------------------------------- | -------------------------- | ----------------------------- | ----------- |
+| Diagnostic micro-finance verte (3 problèmes) | Bienvenu Mendy             | Chef de projet                | ✅ Terminé |
+| Énoncés HMW (x5)                            | Bienvenu Mendy             | Chef de projet                | ✅ Terminé |
+| Guide d'interview terrain (10 questions)      | Abdoulaye Ndour            | Master Prompt Engineering     | ✅ Terminé |
+| Carte d'empathie — exploitant agricole       | Bienvenu Mendy             | Chef de projet                | ✅ Terminé |
+| Persona secondaire — femme GIE               | Adja Dime Bomou            | Responsable Impact & Éthique | ⏳ À faire |
+| Maquette wireframe solution (SMS / USSD)      | Marie Soukèye Rwiyamirira | Développeur UI               | ⏳ À faire |
+| Prototype No-Code scoring alternatif          | Khemesse Diouf             | Développeur No-Code          | ⏳ À faire |
+| Analyse éthique & risques (biais, données)  | Adja Dime Bomou            | Responsable Impact & Éthique | ⏳ À faire |
+| README.md du repository                       | Abdoulaye Ndour            | Master Prompt Engineering     | ⏳ À faire |
 
 ---
 
