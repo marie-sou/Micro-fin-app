@@ -5,7 +5,7 @@
 | Bienvenu Mendy  |       | @BemvindoTech  | [bienvenu.mendy@univ-thies.sn  ](bienvenu.mendy@univ-thies.sn)                                         |
 | Abdoulaye Ndour |       | @petitlaye03   | [ndourabdoulaye1803@gmail.com](mailto:ndourabdoulaye1803@gmail.com "mailto:ndourabdoulaye1803@gmail.com") |
 | Marie Soukèye  |       | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  |
-| Adja            |       |AdjaDimeBomou   |                                                                                                    |
+| Adja            |       |@AdjaDimeBomou  |                                                                                                    |
 | Khémesse Diouf  |       | @Khemesse333   | dioufkhemesse333@gmail.com                                                                          |
 
 ---
