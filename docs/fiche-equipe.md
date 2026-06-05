@@ -21,7 +21,7 @@
 | 2 | Abdoulaye Ndour           | Master Prompt Engineer        | @petitlaye03    | ndourabdoulaye1803@gmail.com                              |
 | 3 | Marie Soukèye Rwiyamirira | Développeur UI               | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)        |
 | 4 | Adja Dime Bomou           | Responsable Impact & Éthique | @AdjaDimeBomou  | adjabomou99@gmail.com                                     |
-| 5 | Khemésse Diouf            | Développeur No-Code          | @Khemesse333    | dioufkhemesse333@gmail.com                                |
+| 5 | Khémesse Diouf            | Développeur No-Code          | @Khemesse333    | dioufkhemesse333@gmail.com                                |
 
 ---
 
