@@ -2,13 +2,13 @@
 
 ## Persona
 
-| Champ | Détail |
-|---|---|
-| **Prénom, âge** | Moussa Diallo, 43 ans |
-| **Profession** | Petit exploitant agricole |
-| **Localisation** | Kaolack, Sénégal |
-| **Cultures** | Mil, arachide, niébé — 2,5 ha |
-| **Situation familiale** | Père de 5 enfants |
+| Champ                         | Détail                                                                    |
+| ----------------------------- | -------------------------------------------------------------------------- |
+| **Prénom, âge**       | Moussa Diallo, 43 ans                                                      |
+| **Profession**          | Petit exploitant agricole                                                  |
+| **Localisation**        | Kaolack, Sénégal                                                         |
+| **Cultures**            | Mil, arachide, niébé — 2,5 ha                                           |
+| **Situation familiale** | Père de 5 enfants                                                         |
 | **Équipement digital** | Feature phone (Nokia basique) — Wave pour recevoir de l'argent uniquement |
 
 **Problème principal :** Impossible d'obtenir un crédit agricole avant la saison des pluies : sans titre foncier ni compte bancaire, les caisses et banques refusent sa demande, le forçant à emprunter à des taux usuraires auprès de commerçants locaux.
@@ -69,11 +69,11 @@
 
 ## Observations sources
 
-| # | Observation |
-|---|---|
+| #      | Observation                                                        |
+| ------ | ------------------------------------------------------------------ |
 | Obs. 1 | Crédit impossible sans garanties formelles ni historique bancaire |
-| Obs. 2 | Peur de l'endettement face aux risques climatiques imprévisibles |
-| Obs. 3 | Tontines utilisées mais gestion manuelle, peu transparente |
+| Obs. 2 | Peur de l'endettement face aux risques climatiques imprévisibles  |
+| Obs. 3 | Tontines utilisées mais gestion manuelle, peu transparente        |
 
 ---
 
