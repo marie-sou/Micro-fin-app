@@ -6,7 +6,7 @@
 | Abdoulaye Ndour |       | @petitlaye03    | [ndourabdoulaye1803@gmail.com](mailto:ndourabdoulaye1803@gmail.com "mailto:ndourabdoulaye1803@gmail.com") |
 | Marie Soukèye  |       | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  |
 | Adja            |       |                 |                                                                                                     |
-| Khemesse Diouf  |       | @Khemesse333    | dioufkhemesse333@gmail.com                                                                          |
+| Khémesse Diouf  |       | @Khemesse333    | dioufkhemesse333@gmail.com                                                                          |
 
 ---
 
