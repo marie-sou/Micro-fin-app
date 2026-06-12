@@ -15,14 +15,14 @@
 
 ## Membres & rôles
 
-| # | Prénom Nom               | Rôle                         | GitHub Username | E-mail GitHub                                             |
+| # | Prénoms Nom               | Rôle                         | GitHub Username | E-mail GitHub                                             |
 | - | ------------------------- | ----------------------------- | --------------- | --------------------------------------------------------- |
-| 1 | Bienvenu Mendy            | Chef de projet                | @BemvindoTech   | [bienvenu.mendy@univ-thies.sn](bienvenu.mendy@univ-thies.sn) |
-| 2 | Abdoulaye Ndour           | Master Prompt Engineer        | @petitlaye03    | ndourabdoulaye1803@gmail.com                              |
-| 3 | Marie Soukèye Rwiyamirira | Développeur UI               | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)        |
+| 1 | Bienvenu Mendy            | Chef de projet               | @BemvindoTech   | [bienvenu.mendy@univ-thies.sn](bienvenu.mendy@univ-thies.sn) |
+| 2 | Abdoulaye Ndour           | Master Prompt Engineer       | @petitlaye03    | ndourabdoulaye1803@gmail.com                              |
+| 3 | Marie Soukèye Rwiyamirira | Développeur UI               | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)     |
 | 4 | Adja Dime Bomou           | Responsable Impact & Éthique | @AdjaDimeBomou  | adjabomou99@gmail.com                                     |
 | 5 | Khémesse Diouf            | Développeur No-Code          | @Khemesse333    | dioufkhemesse333@gmail.com                                |
-| 6 | Iba Nicolas Malé Diallo   | QA / Testeur                 |inm007           |ibanicolasd@gmail.com                                       |
+| 6 | Iba Nicolas Malé Dialo    | QA / Testeur                 | @inm007         |ibanicolasd@gmail.com                                      |
 ---
 
 ## Notre défi
