@@ -2,12 +2,12 @@
 
 | Prénom Nom                | Rôle                        | GitHub Username | E-mail GitHub                                                                                       |
 | -------------------------- | ---------------------------- | --------------- | --------------------------------------------------------------------------------------------------- |
-| Bienvenu Mendy             | Chef de Projet               | @BemvindoTech   | [bienvenu.mendy@univ-thies.sn  ](bienvenu.mendy@univ-thies.sn)                                         |
+| Bienvenu Mendy             | Chef de Projet               | @BemvindoTech   | [bienvenu.mendy@univ-thies.sn  ](bienvenu.mendy@univ-thies.sn)                                         
 | Abdoulaye Ndour            | Master Prompt Engineer       | @petitlaye03    | [ndourabdoulaye1803@gmail.com](mailto:ndourabdoulaye1803@gmail.com "mailto:ndourabdoulaye1803@gmail.com") |
-| Marie Soukèye Rwiyamirira | Développeur UI              | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  |
-| Adja Dime Bomou            | Responsable Impact & Ethique | @AdjaDimeBomou  | [adjabomou99@gmail.com ](mailto:adjabomou99@gmail.com)                                                 |
-| Khemesse Diouf             | Développeur No-Code         | @Khemesse333    | dioufkhemesse333@gmail.com                                                                          |
-|Iba Nicolas Malé Dialo|  | QA / Testeur                  | @inm007          |ibanicolasd@gmail.com | 
+| Marie Soukèye Rwiyamirira | Développeur UI              | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  
+| Adja Dime Bomou            | Responsable Impact & Ethique | @AdjaDimeBomou  | [adjabomou99@gmail.com ](mailto:adjabomou99@gmail.com)                                                 
+| Khemesse Diouf             | Développeur No-Code         | @Khemesse333    | dioufkhemesse333@gmail.com                                                                          
+|Iba Nicolas Malé Dialo       | QA / Testeur                | @inm007          |ibanicolasd@gmail.com 
 ---
 
 ## Défi
