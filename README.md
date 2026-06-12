@@ -7,7 +7,8 @@
 | Marie Soukèye Rwiyamirira | Développeur UI              | @marie-sou      | [mariesr2377@gmail.com](mailto:mariesr2377@gmail.com)                                                  |
 | Adja Dime Bomou            | Responsable Impact & Ethique | @AdjaDimeBomou  | [adjabomou99@gmail.com ](mailto:adjabomou99@gmail.com)                                                 |
 | Khemesse Diouf             | Développeur No-Code         | @Khemesse333    | dioufkhemesse333@gmail.com                                                                          |
-|Iba Nicolas Malé Dialo|                                                       |ibanicolasd@gmail.com | 
+|Iba Nicolas Malé Dialo|     | QA / Testeur                  | @inm007          |ibanicolasd@gmail.com 
+               | 
 ---
 
 ## Défi
